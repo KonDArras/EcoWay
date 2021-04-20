@@ -4,11 +4,11 @@
 ### Εαρινό εξάμηνο 2020-2021
 
 **Μέλη της ομάδας**
-* Ζαχαροπούλου Άννα-Μαρία [git] (https://github.com/anmarzac)
-* Ράπτη Κωνσταντίνα [git] (https://github.com/unavailable0)
-* Καραγιάννης Χρήστος [git] (https://github.com/KonDArras)
-* Ντούρου Εύα [git] (https://github.com/evedour)
-* Κατημερτζόγλου Σπυρίδων [git] (https://github.com/nuclearhead1)
+* Ζαχαροπούλου Άννα-Μαρία [git](https://github.com/anmarzac)
+* Ράπτη Κωνσταντίνα [git](https://github.com/unavailable0)
+* Καραγιάννης Χρήστος [git](https://github.com/KonDArras)
+* Ντούρου Εύα [git](https://github.com/evedour)
+* Κατημερτζόγλου Σπυρίδων [git](https://github.com/nuclearhead1)
 
 
 **Περιγραφή**
